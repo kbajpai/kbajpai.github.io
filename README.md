@@ -112,13 +112,14 @@ Clients. Created Stored Procedures/SQL Queries to enhance and optimize
 **Data Feed Process** for **Mutual Funds** clients. Worked on migration
 of Error Logging to Splunk Format. Coordination with **offshore team**
 for **end-to-end support** from **Development to Deployment**.
+Transforming ColdFusion to C\#/.NET code.
 
 Environment
 -----------
 
-**SQL Server 2008**, **BMC ITSM**, **TeamCity**, **Jenkins**,
-**Perforce**, Fusebox, ColdFusion 8/9/10, CFScript JavaScript, HTML,
-**PDFLib**
+**Visual Studio 2017**, **SQL Server 2008**, **BMC ITSM**, **TeamCity**,
+**Jenkins**, **Perforce**, Fusebox, ColdFusion 8/9/10, CFScript
+JavaScript, HTML, **PDFLib**
 
 [@l]{}
 
