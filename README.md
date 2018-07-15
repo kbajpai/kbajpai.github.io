@@ -10,6 +10,9 @@ Software Development
 Summary
 -------
 
+-   Currently working as **Backend Developer** at a prominent
+    **FinTech** company
+
 -   Extensive Software Development on Distributed Platforms - Web Based
     and Client Server Apps
 
@@ -17,6 +20,8 @@ Summary
 
 -   Competency in architecting solutions using **Current Technology
     Standards** and design patterns
+
+-   Converting **ColdFusion Cde** to **C\#.NET**
 
 -   Proficient and well-versed in **SDLC**, **Agile Methodology**, and
     Industry **Best Practices**
@@ -91,7 +96,7 @@ Professional Experience
   --------------------------------------------
 
   -----------
-  12 Months
+  15 Months
   -----------
 
 Company
@@ -108,11 +113,11 @@ Helping client with current cycle of enhancements by analyzing new
 requirements, preparing estimations, impact analysis documentation, and
 high/low level design of proposed solutions. Responsible for **ETL
 (Extract, Transform, Loading)** processes for multiple Mutual Funds
-Clients. Created Stored Procedures/SQL Queries to enhance and optimize
-**Data Feed Process** for **Mutual Funds** clients. Worked on migration
-of Error Logging to Splunk Format. Coordination with **offshore team**
-for **end-to-end support** from **Development to Deployment**.
-Transforming ColdFusion to C\#/.NET code.
+Clients. Creating and Optimizing Stored Procedures/SQL queries to
+enhance and optimize **Data Feed Process** for **Mutual Funds** Clients.
+Worked on migration of Error Logging with Splunk Format. Coordination
+with **off-shore team** for **end-to-end support** from **Development to
+Deployment**. Transforming ColdFusion to C\#/.NET code.
 
 Environment
 -----------
