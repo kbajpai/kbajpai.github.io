@@ -10,8 +10,10 @@ Software Development
 Summary
 -------
 
--   Currently working as **Backend Developer** at a prominent
+-   Currently working as **Backend/DevOps Developer** at a prominent
     **FinTech** company
+
+-   Migration of applications from **ColdFusion** to **C\#.NET**
 
 -   Extensive Software Development on Distributed Platforms - Web Based
     and Client Server Apps
@@ -20,8 +22,6 @@ Summary
 
 -   Competency in architecting solutions using **Current Technology
     Standards** and design patterns
-
--   Converting **ColdFusion Cde** to **C\#.NET**
 
 -   Proficient and well-versed in **SDLC**, **Agile Methodology**, and
     Industry **Best Practices**
@@ -58,8 +58,8 @@ Server 2008/2012/2014, MSTest NUnit, XUnit, Unity, Kendo UI, GIT, JIRA,
 Domain Experience
 -----------------
 
-Wealth Management, Higher Education, Healthcare, CRM and Content
-Management, Information Security, Marketing
+Mutual Funds, Wealth Management, Higher Education, Healthcare, CRM and
+Content Management, Information Security, Marketing
 
 Other Tools and Technologies
 ----------------------------
@@ -85,9 +85,9 @@ Professional Experience
 
 [@l]{}
 
-  -----------------
-  **Edgewood NY**
-  -----------------
+  ------------------
+  **Deer Park NY**
+  ------------------
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ Professional Experience
   --------------------------------------------
 
   -----------
-  15 Months
+  18 Months
   -----------
 
 Company
@@ -112,7 +112,7 @@ Responsibilities
 Helping client with current cycle of enhancements by analyzing new
 requirements, preparing estimations, impact analysis documentation, and
 high/low level design of proposed solutions. Responsible for **ETL
-(Extract, Transform, Loading)** processes for multiple Mutual Funds
+(Extract, Transform, Loading)** Processes for multiple Mutual Funds
 Clients. Creating and Optimizing Stored Procedures/SQL queries to
 enhance and optimize **Data Feed Process** for **Mutual Funds** Clients.
 Worked on migration of Error Logging with Splunk Format. Coordination
