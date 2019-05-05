@@ -10,7 +10,7 @@ Software Development
 Summary
 -------
 
--   Currently working as **Backend/DevOps Developer** at a prominent
+-   Currently working as **Backend/DevOps Engineer** at a prominent
     **FinTech** company
 
 -   Migration of applications from **ColdFusion** to **C\#.NET**
@@ -91,12 +91,12 @@ Professional Experience
 
 ------------------------------------------------------------------------
 
-  --------------------------------------------
-  Software Consultant (April 2017 - Current)
-  --------------------------------------------
+  ----------------------------------------------
+  Sr. Technical Analyst (April 2017 - Current)
+  ----------------------------------------------
 
   -----------
-  18 Months
+  24 Months
   -----------
 
 Company
