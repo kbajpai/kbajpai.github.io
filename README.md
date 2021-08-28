@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**Master's in Computer Science** with **11+ years of experience** in
+**Masters in Computer Science** with **11+ years of experience** in
 Software Development
 
 ## Summary
@@ -14,10 +14,10 @@ Software Development
 
 -   Migration of applications from **ColdFusion** to **C\#.NET**
 
+-   Strong **Analytical** and **Problem-Solving** skills
+
 -   Extensive Software Development on Distributed Platforms - Web Based
     and Client Server Apps
-
--   Strong **Analytical** and **Problem-Solving** skills
 
 -   Competency in architecting solutions using **Current Technology
     Standards** and design patterns
@@ -45,36 +45,34 @@ Software Development
 
 ## Primary Skills
 
-Java, Python, **C\#**, **MVC 4.0/5.0**, **Dotnet Core**, **Azure**,
-AngularJS, **ASP.NET**, **ColdFusion**, CFML, HTML5, **Bootstrap**, CSS,
-**AJAX**, **jQuery**, JavaScript, JSON, **WebAPI**, RESTful Services, MS
-Membership/Identity, LINQ, Web API, Entity Framework 6, SQL Server
-2008/2012/2014, MSTest NUnit, XUnit, Unity, Kendo UI, GIT, JIRA,
-**Jenkins**, **TeamCity**, **Perforce**, Agile/Waterfall Development,
-**Docker**, **Kubernetes**
+**Dotnet Core**, **C\#**, **SSIS**,Python, **BASH**, Cygwin, **Ubuntu**,
+**MVC 4.0/5.0**, **Azure**, AngularJS, **ColdFusion**, CFML, HTML5,
+**Bootstrap**, CSS, **AJAX**, **jQuery**, JavaScript, JSON, **WebAPI**,
+RESTful Services, LINQ, Web API, Entity Framework 6, SQL Server
+2008/2012/2016, MSTest NUnit, **Git**, Jira, **Jenkins**, **TeamCity**,
+**Perforce**, Agile/Waterfall Development, **Docker**, **Kubernetes**
 
 ## Domain Experience
 
 **Fulfillment System**, **Mutual Funds**, Wealth Management, Higher
-Education, Healthcare, CRM and Content Management, **Information
-Security**, Marketing
+Education, **Information Security**
 
 ## Other Tools and Technologies
 
 **gulp**, NodeJs, **NPM**, **GitHub**, **Visual Studio 2013/2015/2017**,
 **InetelliJ IDEA**, MS Visio 2010, MS Project 2010, Microsoft Team
 Foundation Server (TFS), Perforce, CFScript, CFML, **ColdBox 3.8**,
-Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2003,
-**Ubuntu/Linux**, **BASH**, **Rsync**, npm, **SublimeText**, **Vim**,
-**Grunt**, **Gradle**, Lex/Yacc
+Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
+**Ubuntu/Linux**, **BASH**, **rsync**, npm, **SublimeText**, **Vi**,
+**Gradle**, Lex/Yacc
 
 # Education
 
--   **Master's in Computer Science**, Indiana State University, Terre
+-   **Masters in Computer Science**, Indiana State University, Terre
     Haute IN (August 2011)
 
--   **B.Tech. in Computer Science and Engg.**, Uttar Pradesh Tech.
-    University, Lucknow (June 2007)
+-   **B.Tech. in Computer Science and Engineering.**, Uttar Pradesh
+    Technical University, Lucknow (June 2007)
 
 # Professional Experience
 
@@ -93,7 +91,7 @@ Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2003,
   -------------------------------------------------
 
   -----------
-  24 Months
+  52 Months
   -----------
 
 ## Company
@@ -116,9 +114,9 @@ Deployment**. Transforming ColdFusion to C\#/.NET code.
 
 ## Environment
 
-**Visual Studio 2017/2019**, **SQL Server 2016**, **BMC ITSM**,
-**TeamCity**, **Jenkins**, **Perforce**, Fusebox, ColdFusion 8/9/10,
-CFScript JavaScript, HTML, **PDFLib**, **DevOps**, Gitlab
+**Visual Studio 2017/2019**, **SQL Server 2016**, **TeamCity**,
+**Jenkins**, **Git**, Fusebox, ColdFusion 8/9/10, CFScript JavaScript,
+HTML, **PDFLib**, **DevOps**, **BASH**, Python, **SSIS**, **Cygwin**
 
   ------------------------
   MTM Business Solutions
@@ -264,12 +262,12 @@ Mura, IIS, Git
   9 Months
   ----------
 
-  ---------------
-  **Citigroup**
-  ---------------
+  ----------------
+  **CavalierIT**
+  ----------------
 
   ----------------
-  **Warren, NJ**
+  **Edison, NJ**
   ----------------
 
   -----------------------------------------------
