@@ -91,7 +91,7 @@ Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
   -------------------------------------------------
 
   -----------
-  52 Months
+  30 Months
   -----------
 
 ## Company
