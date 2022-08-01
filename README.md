@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**Masters in Computer Science** with **11+ years of experience** in
+**Masters in Computer Science** with **12+ years of experience** in
 Software Development
 
 ## Summary
@@ -45,7 +45,7 @@ Software Development
 
 ## Primary Skills
 
-**Dotnet Core** 5.0/3.1, **C\#**, **SSIS**,Python, **BASH**, Cygwin,
+**Dotnet Core** 6.0/5.0/3.1, **C\#**, **SSIS**,Python, **BASH**, Cygwin,
 **Ubuntu**, **MVC 4.0/5.0**, **Azure**, AngularJS, **ColdFusion**, CFML,
 HTML5, **Bootstrap**, CSS, **AJAX**, **jQuery**, JavaScript, JSON,
 **WebAPI**, RESTful Services, LINQ, Web API, Entity Framework 6, SQL
@@ -92,7 +92,7 @@ Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
   -------------------------------------------------
 
   -----------
-  52 Months
+  64 Months
   -----------
 
 ## Company
@@ -115,7 +115,7 @@ Deployment**. Transforming ColdFusion to C\#/.NET code.
 
 ## Environment
 
-**Visual Studio 2017/2019**, **SQL Server 2016**, **TeamCity**,
+**Visual Studio 2022/2017/2019**, **SQL Server 2016**, **TeamCity**,
 **Jenkins**, **Git**, Fusebox, ColdFusion 8/9/10, CFScript JavaScript,
 HTML, **PDFLib**, **DevOps**, **BASH**, Python, **SSIS**, **Cygwin**
 
