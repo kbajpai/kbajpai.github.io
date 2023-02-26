@@ -9,7 +9,7 @@ Software Development
 
 ## Summary
 
--   Currently working as **Senior Software Engineer** at **Broadridge
+-   Currently working as **Lead Software Engineer** at **Broadridge
     Financial Solutions**, Deer Park NY
 
 -   Migration of applications from **ColdFusion** to **C\#.NET**
@@ -38,8 +38,6 @@ Software Development
 
 -   Experience in dealing with **End Users**, **Gathering
     Requirements**, and Coordinating all facets of a complex project
-
--   Active **Open-Source Contributor**
 
 # Technical Skills
 
@@ -88,11 +86,19 @@ Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
 ------------------------------------------------------------------------
 
   -------------------------------------------------
-  Senior Software Engineer (April 2017 - Current)
+  Lead Software Engineer (January 2023 - Current)
   -------------------------------------------------
 
+  ----------
+  2 Months
+  ----------
+
+  -------------------------------------------------------
+  Senior Software Engineer (April 2017 - December 2022)
+  -------------------------------------------------------
+
   -----------
-  64 Months
+  68 Months
   -----------
 
 ## Company
