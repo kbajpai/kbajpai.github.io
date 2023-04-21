@@ -12,7 +12,10 @@ Software Development
 -   Currently working as **Lead Software Engineer** at **Broadridge
     Financial Solutions**, Deer Park NY
 
--   Migration of applications from **ColdFusion** to **C\#.NET**
+-   Migration of legacy/monolith applications to **Microservice** using
+    **Dotnet Core**
+
+-   Work with Product Manager in defining **product roadmap**
 
 -   Strong **Analytical** and **Problem-Solving** skills
 
@@ -43,13 +46,12 @@ Software Development
 
 ## Primary Skills
 
-**Dotnet Core** 6.0/5.0/3.1, **C\#**, **SSIS**,Python, **BASH**, Cygwin,
-**Ubuntu**, **MVC 4.0/5.0**, **Azure**, AngularJS, **ColdFusion**, CFML,
-HTML5, **Bootstrap**, CSS, **AJAX**, **jQuery**, JavaScript, JSON,
-**WebAPI**, RESTful Services, LINQ, Web API, Entity Framework 6, SQL
-Server 2008/2012/2016, MSTest NUnit, **Git**, Jira, **Jenkins**,
-**TeamCity**, **Perforce**, Agile/Waterfall Development, **Docker**,
-**Kubernetes**
+**Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **SSIS**,Python, **BASH**,
+Cygwin, **Ubuntu**, **MVC 4.0/5.0**, Angular, HTML5, **Bootstrap**, CSS,
+**AJAX**, **jQuery**, JavaScript, JSON, **WebAPI**, RESTful Services,
+LINQ, Web API, Entity Framework 6, SQL Server 2008/2012/2016, MSTest
+NUnit, **Git**, Jira, **Jenkins**, **TeamCity**, **Perforce**,
+Agile/Waterfall Development, **Docker**, **Kubernetes**
 
 ## Domain Experience
 
@@ -85,20 +87,20 @@ Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
 
 ------------------------------------------------------------------------
 
-  -------------------------------------------------
-  Lead Software Engineer (January 2023 - Current)
-  -------------------------------------------------
-
-  ----------
-  2 Months
-  ----------
-
-  -------------------------------------------------------
-  Senior Software Engineer (April 2017 - December 2022)
-  -------------------------------------------------------
+  ----------------------------------------------
+  Lead Software Engineer (July 2022 - Current)
+  ----------------------------------------------
 
   -----------
-  68 Months
+  10 Months
+  -----------
+
+  ---------------------------------------------------
+  Senior Software Engineer (April 2017 - June 2022)
+  ---------------------------------------------------
+
+  -----------
+  62 Months
   -----------
 
 ## Company
@@ -115,15 +117,19 @@ high/low level design of proposed solutions. Responsible for **ETL
 (Extract, Transform, Loading)** Processes for multiple Mutual Funds
 Clients. Creating and Optimizing Stored Procedures/SQL queries to
 enhance and optimize **Data Feed Process** for **Mutual Funds** Clients.
-Worked on migration of Error Logging with Splunk Format. Coordination
-with **off-shore team** for **end-to-end support** from **Development to
-Deployment**. Transforming ColdFusion to C\#/.NET code.
+Coordination with **off-shore team** for **end-to-end support** from
+**Development to Deployment**. Helping product owner in running
+**refinement sessions** for **scrum board**. Leading the deployment from
+development to production environment. Helping the agile team with
+completing stories in the scrum. Running **code review** sessions with
+other developers.
 
 ## Environment
 
-**Visual Studio 2022/2017/2019**, **SQL Server 2016**, **TeamCity**,
-**Jenkins**, **Git**, Fusebox, ColdFusion 8/9/10, CFScript JavaScript,
-HTML, **PDFLib**, **DevOps**, **BASH**, Python, **SSIS**, **Cygwin**
+**Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **Visual Studio
+2022/2017/2019**, **SQL Server 2016**, **TeamCity**, **Jenkins**,
+**Git**, JavaScript, HTML, **DevOps**, **BASH**, Python, **SSIS**,
+**Cygwin**
 
   ------------------
   InfoTrax Systems
@@ -162,9 +168,8 @@ current WorkFlow System.
 
 ## Environment
 
-jQuery, LINQ, AngularJS, CSS, IIS, MS SQL Server 2012, Fusebox,
-ColdFusion7/8/9/10, Lucee, ColdBox, CFScript JavaScript, HTML, jQuery,
-Android
+jQuery, LINQ, AngularJS, CSS, IIS, MS SQL Server 2012, ASP.NET, **.NET
+Framework** 4.5/4.8, **C\#** JavaScript, HTML, jQuery
 
   --------------------------
   Indiana State University
