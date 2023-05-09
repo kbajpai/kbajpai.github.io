@@ -10,37 +10,37 @@ Software Development
 ## Summary
 
 -   Currently working as **Lead Software Engineer** at **Broadridge
-    Financial Solutions**, Deer Park NY
+    Financial Solutions**
 
 -   Migration of legacy/monolith applications to **Microservice** using
     **Dotnet Core**
 
 -   Work with Product Manager in defining **product roadmap**
 
--   Strong **Analytical** and **Problem-Solving** skills
+-   Strong **Analytical** & **Problem-Solving** skills
 
 -   Extensive Software Development on Distributed Platforms - Web Based
-    and Client Server Apps
+    & Client Server Apps
 
 -   Competency in architecting solutions using **Current Technology
-    Standards** and design patterns
+    Standards** & design patterns
 
--   Proficient and well-versed in **SDLC**, **Agile Methodology**, and
+-   Proficient & well-versed in **SDLC**, **Agile Methodology**, &
     Industry **Best Practices**
 
 -   Extensive exposure with **Onsite/Off-Shore coordination**
 
--   Result Oriented and Self-Motivated individual with full commitment
+-   Result Oriented & Self-Motivated individual with full commitment
     towards creating value
 
--   Quick Learner, Self-Starter, Individual Contributor, and **effective
+-   Quick Learner, Self-Starter, Individual Contributor, & **effective
     team player**
 
 -   Possess excellent interpersonal skills to interact with the
     **client/team members**
 
 -   Experience in dealing with **End Users**, **Gathering
-    Requirements**, and Coordinating all facets of a complex project
+    Requirements**, & Coordinating all facets of a complex project
 
 # Technical Skills
 
@@ -58,7 +58,7 @@ Agile/Waterfall Development, **Docker**, **Kubernetes**
 **Fulfillment System**, **Mutual Funds**, Wealth Management, Higher
 Education, **Information Security**
 
-## Other Tools and Technologies
+## Other Tools & Technologies
 
 **gulp**, NodeJs, **NPM**, **GitHub**, **Visual Studio 2013/2015/2017**,
 **InetelliJ IDEA**, MS Visio 2010, MS Project 2010, Microsoft Team
@@ -72,7 +72,7 @@ Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
 -   **Masters in Computer Science**, Indiana State University, Terre
     Haute IN (August 2011)
 
--   **B.Tech. in Computer Science and Engineering.**, Uttar Pradesh
+-   **B.Tech. in Computer Science & Engineering.**, Uttar Pradesh
     Technical University, Lucknow (June 2007)
 
 # Professional Experience
@@ -105,18 +105,18 @@ Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
 
 ## Company
 
-Broadridge is the leading provider of investor communications and
-technology-driven solutions for wealth management, asset management and
+Broadridge is the leading provider of investor communications &
+technology-driven solutions for wealth management, asset management &
 capital markets firms.
 
 ## Responsibilities
 
 Helping client with current cycle of enhancements by analyzing new
-requirements, preparing estimations, impact analysis documentation, and
+requirements, preparing estimations, impact analysis documentation, &
 high/low level design of proposed solutions. Responsible for **ETL
 (Extract, Transform, Loading)** Processes for multiple Mutual Funds
-Clients. Creating and Optimizing Stored Procedures/SQL queries to
-enhance and optimize **Data Feed Process** for **Mutual Funds** Clients.
+Clients. Creating & Optimizing Stored Procedures/SQL queries to enhance
+& optimize **Data Feed Process** for **Mutual Funds** Clients.
 Coordination with **off-shore team** for **end-to-end support** from
 **Development to Deployment**. Helping product owner in running
 **refinement sessions** for **scrum board**. Leading the deployment from
@@ -152,19 +152,18 @@ other developers.
 ## Company
 
 InfoTrax enables customers to calculate distributors' compensations with
-speed and accuracy - maximizing business performance. Every feature of
-our software and every service we offer is built to support the
-compensation plan and the relationship between our clients and their
-distributors.
+speed & accuracy - maximizing business performance. Every feature of our
+software & every service we offer is built to support the compensation
+plan & the relationship between our clients & their distributors.
 
 ## Responsibilities
 
-Involved in requirements gathering, design, development, and
-customization of modules. Worked with Product Managers to apply bugs
-fixes and apply customization as per client requirements. Spearheaded
-company-wide **Modernization Project** -- applying **Industry Best
-Practices**. Worked on integrating **Git/Atlassian Jira** with our
-current WorkFlow System.
+Involved in requirements gathering, design, development, & customization
+of modules. Worked with Product Managers to apply bugs fixes & apply
+customization as per client requirements. Spearheaded company-wide
+**Modernization Project** -- applying **Industry Best Practices**.
+Worked on integrating **Git/Atlassian Jira** with our current WorkFlow
+System.
 
 ## Environment
 
@@ -192,21 +191,21 @@ Framework** 4.5/4.8, **C\#** JavaScript, HTML, jQuery
 ## Company
 
 Institutional Research at Indiana State University produces data,
-analysis, and research for the future growth, planning, and policy
-making of Indiana State University, Terre Haute
+analysis, & research for the future growth, planning, & policy making of
+Indiana State University, Terre Haute
 
 ## Responsibilities
 
 Full Lifecycle of the project including analysis design, development,
-debugging, testing, and deployment. Developed the application from
-scratch using the popular MVC Framework ColdBox, ORMServices, Developed
+debugging, testing, & deployment. Developed the application from scratch
+using the popular MVC Framework ColdBox, ORMServices, Developed
 Login/Session based with auto-logout feature. Worked on UI/UX using
-**CSS3**, **Bootstrap**, **HTML5**. Designed and developed **MS SQL
-Server 2012** Procedures, Functions, Database Triggers and involved in
-creating and updating Packages to meet business requirements. Multi-file
-Upload utility implemented using **jQuery**. Configured **Mura CMS** for
-the public site, JIRA for Issue Handling. **Grid View** with
-multi-filter, sort, filter, and expandable rows with details view.
+**CSS3**, **Bootstrap**, **HTML5**. Designed & developed **MS SQL Server
+2012** Procedures, Functions, Database Triggers & involved in creating &
+updating Packages to meet business requirements. Multi-file Upload
+utility implemented using **jQuery**. Configured **Mura CMS** for the
+public site, JIRA for Issue Handling. **Grid View** with multi-filter,
+sort, filter, & expandable rows with details view.
 
 ## Environment
 
