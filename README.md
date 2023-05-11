@@ -4,76 +4,80 @@
 
 ## Introduction
 
-**Masters in Computer Science** with **12+ years of experience** in
+**Masters in Computer Science** with **13+ years of experience** in
 Software Development
+
+## Education
+
+-   **Masters in Computer Science**, Indiana State University
+
+-   **Bachelors in Computer Science & Engineering**, Dr. A.P.J. Abdul
+    Kalam Technical University
 
 ## Summary
 
--   Currently working as **Lead Software Engineer** at **Broadridge
-    Financial Solutions**
+-   Currently working as **Lead Software Engineer** at **Broadridge**
+
+-   Strong **communication** & **interpersonal** skills
+
+-   Strong **analytical** & **problem-solving** skills
+
+-   In-depth experience working in **C\#**
+
+-   Well-versed in **Agile Methodology**
+
+-   Ambition to solve **tough** & **challenging** problems using
+    analytical methods
+
+-   Experience working with **distributed systems**
+
+-   Proficiency in creating **multi-threaded application** design &
+    development
+
+-   Competence in designing high-volume **ETL** jobs using **C\#**,
+    Dotnet Core, **SSIS**
 
 -   Migration of legacy/monolith applications to **Microservice** using
     **Dotnet Core**
 
--   Work with Product Manager in defining **product roadmap**
-
--   Strong **Analytical** & **Problem-Solving** skills
-
 -   Extensive Software Development on Distributed Platforms - Web Based
     & Client Server Apps
 
--   Competency in architecting solutions using **Current Technology
-    Standards** & design patterns
-
--   Proficient & well-versed in **SDLC**, **Agile Methodology**, &
-    Industry **Best Practices**
+-   Competency in architecturing solutions using different **design
+    patterns** namely **Singleton**, **Factory**, **Facade**, etc.
 
 -   Extensive exposure with **Onsite/Off-Shore coordination**
 
--   Result Oriented & Self-Motivated individual with full commitment
+-   Result oriented & self-motivated individual with full commitment
     towards creating value
 
--   Quick Learner, Self-Starter, Individual Contributor, & **effective
+-   Quick learner, self-starter, individual contributor, & **effective
     team player**
 
 -   Possess excellent interpersonal skills to interact with the
     **client/team members**
 
--   Experience in dealing with **End Users**, **Gathering
-    Requirements**, & Coordinating all facets of a complex project
-
-# Technical Skills
+-   Experience in dealing with **end users**, **gathering
+    requirements**, & coordinating all facets of a complex project
 
 ## Primary Skills
 
-**Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **SSIS**,Python, **BASH**,
-Cygwin, **Ubuntu**, **MVC 4.0/5.0**, Angular, HTML5, **Bootstrap**, CSS,
-**AJAX**, **jQuery**, JavaScript, JSON, **WebAPI**, RESTful Services,
-LINQ, Web API, Entity Framework 6, SQL Server 2008/2012/2016, MSTest
-NUnit, **Git**, Jira, **Jenkins**, **TeamCity**, **Perforce**,
-Agile/Waterfall Development, **Docker**, **Kubernetes**
+**Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **SSIS**, **Python**,
+**BASH**, Cygwin, **Linux**, Angular, HTML5, **TypeScript**, JavaScript,
+JSON, **Web API**, RESTful Services, LINQ, SQL Server 2012/2016/2019,
+MSTest NUnit, **Git**, Jira, **Jenkins**, **TeamCity**, **Perforce**,
+**Docker**, **Swarm**, **Kubernetes**, ReSharper
 
 ## Domain Experience
 
-**Fulfillment System**, **Mutual Funds**, Wealth Management, Higher
-Education, **Information Security**
+Fulfillment System, Wealth Management, Higher Education
 
 ## Other Tools & Technologies
 
-**gulp**, NodeJs, **NPM**, **GitHub**, **Visual Studio 2013/2015/2017**,
-**InetelliJ IDEA**, MS Visio 2010, MS Project 2010, Microsoft Team
-Foundation Server (TFS), Perforce, CFScript, CFML, **ColdBox 3.8**,
-Fusebox, Mura CMS, **Android**, Semantic UI, Windows Server 2008/2016,
+NodeJs, **NPM**, **GitHub**, **Visual Studio 2022/2019**, **InetelliJ
+IDEA**, Perforce, CFScript, CFML, Windows Server 2008/2016,
 **Ubuntu/Linux**, **BASH**, **rsync**, npm, **SublimeText**, **Vi**,
-**Gradle**, Lex/Yacc
-
-# Education
-
--   **Masters in Computer Science**, Indiana State University, Terre
-    Haute IN (August 2011)
-
--   **B.Tech. in Computer Science & Engineering.**, Uttar Pradesh
-    Technical University, Lucknow (June 2007)
+**Gradle**, Lex/Yacc, Latex, MongoDB
 
 # Professional Experience
 
@@ -127,7 +131,7 @@ other developers.
 ## Environment
 
 **Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **Visual Studio
-2022/2017/2019**, **SQL Server 2016**, **TeamCity**, **Jenkins**,
+2022/2019/2017**, **SQL Server 2016**, **TeamCity**, **Jenkins**,
 **Git**, JavaScript, HTML, **DevOps**, **BASH**, Python, **SSIS**,
 **Cygwin**
 
