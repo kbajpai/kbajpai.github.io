@@ -1,20 +1,9 @@
-::: {.center}
-# Kunal Bajpai
-:::
-
-## Introduction
+# Introduction
 
 **Masters in Computer Science** with **13+ years of experience** in
 Software Development
 
-## Education
-
--   **Masters in Computer Science**, Indiana State University
-
--   **Bachelors in Computer Science & Engineering**, Dr. A.P.J. Abdul
-    Kalam Technical University
-
-## Summary
+# Summary
 
 -   Currently working as **Lead Software Engineer** at **Broadridge**
 
@@ -24,7 +13,15 @@ Software Development
 
 -   In-depth experience working in **C\#**
 
--   Well-versed in **Agile Methodology**
+-   Advanced understanding of **agile methodologies** such as **CI/CD**,
+    Application Resiliency, & Security
+
+-   Proficient in all aspects of the Software Development Life Cycle
+
+-   Proficiency in automation & continuous delivery methods
+
+-   Experience multiple programming language(s) **C\#**, **Python**,
+    JavaScript, **BASH** Scripting
 
 -   Ambition to solve **tough** & **challenging** problems using
     analytical methods
@@ -44,9 +41,10 @@ Software Development
     & Client Server Apps
 
 -   Competency in architecturing solutions using different **design
-    patterns** namely **Singleton**, **Factory**, **Facade**, etc.
+    patterns** namely **Singleton**, **Factory**, **Facade**,
+    **Dependency Injection**, etc.
 
--   Extensive exposure with **Onsite/Off-Shore coordination**
+-   Extensive exposure with **onsite/off-shore coordination**
 
 -   Result oriented & self-motivated individual with full commitment
     towards creating value
@@ -60,7 +58,9 @@ Software Development
 -   Experience in dealing with **end users**, **gathering
     requirements**, & coordinating all facets of a complex project
 
-## Primary Skills
+-   Active participant in **interviewing** & **hiring** new associates
+
+# Primary Skills
 
 **Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **SSIS**, **Python**,
 **BASH**, Cygwin, **Linux**, Angular, HTML5, **TypeScript**, JavaScript,
@@ -68,11 +68,11 @@ JSON, **Web API**, RESTful Services, LINQ, SQL Server 2012/2016/2019,
 MSTest NUnit, **Git**, Jira, **Jenkins**, **TeamCity**, **Perforce**,
 **Docker**, **Swarm**, **Kubernetes**, ReSharper
 
-## Domain Experience
+# Domain Experience
 
 Fulfillment System, Wealth Management, Higher Education
 
-## Other Tools & Technologies
+# Other Tools & Technologies
 
 NodeJs, **NPM**, **GitHub**, **Visual Studio 2022/2019**, **InetelliJ
 IDEA**, Perforce, CFScript, CFML, Windows Server 2008/2016,
@@ -99,9 +99,9 @@ IDEA**, Perforce, CFScript, CFML, Windows Server 2008/2016,
   10 Months
   -----------
 
-  ---------------------------------------------------
-  Senior Software Engineer (April 2017 - June 2022)
-  ---------------------------------------------------
+  ------------------------------------------------
+  Sr. Software Engineer (April 2017 - June 2022)
+  ------------------------------------------------
 
   -----------
   62 Months
@@ -117,16 +117,15 @@ capital markets firms.
 
 Helping client with current cycle of enhancements by analyzing new
 requirements, preparing estimations, impact analysis documentation, &
-high/low level design of proposed solutions. Responsible for **ETL
-(Extract, Transform, Loading)** Processes for multiple Mutual Funds
-Clients. Creating & Optimizing Stored Procedures/SQL queries to enhance
-& optimize **Data Feed Process** for **Mutual Funds** Clients.
-Coordination with **off-shore team** for **end-to-end support** from
-**Development to Deployment**. Helping product owner in running
-**refinement sessions** for **scrum board**. Leading the deployment from
-development to production environment. Helping the agile team with
-completing stories in the scrum. Running **code review** sessions with
-other developers.
+high/low level design of proposed solutions. Responsible for **ETL**
+Processes for multiple Mutual Funds Clients. Creating & Optimizing
+Stored Procedures/SQL queries to enhance & optimize **Data Feed
+Process** for **Mutual Funds** Clients. Coordination with **off-shore
+team** for **end-to-end support** from **Development to Deployment**.
+Helping product owner in running **refinement sessions** for **scrum
+board**. Leading the deployment from development to production
+environment. Helping the agile team with completing stories in the
+scrum. Running **code review** sessions with other developers.
 
 ## Environment
 
@@ -184,9 +183,9 @@ Framework** 4.5/4.8, **C\#** JavaScript, HTML, jQuery
 
 ------------------------------------------------------------------------
 
-  ------------------------------------------------------
-  Senior Software Engineer (January 2014 - March 2015)
-  ------------------------------------------------------
+  ---------------------------------------------------
+  Sr. Software Engineer (January 2014 - March 2015)
+  ---------------------------------------------------
 
   -----------
   15 Months
@@ -282,3 +281,10 @@ Mura, IIS, Git
   -----------
   24 Months
   -----------
+
+# Education
+
+-   **Masters in Computer Science**, Indiana State University
+
+-   **Bachelors in Computer Science & Engineering**, Dr. A.P.J. Abdul
+    Kalam Technical University
