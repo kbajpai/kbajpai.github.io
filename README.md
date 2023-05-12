@@ -34,8 +34,8 @@ Software Development
 -   Competence in designing high-volume **ETL** jobs using **C\#**,
     Dotnet Core, **SSIS**
 
--   Migration of legacy/monolith applications to **Microservice** using
-    **Dotnet Core**
+-   Migration of legacy applications to **Microservice** using **Dotnet
+    Core**
 
 -   Extensive Software Development on Distributed Platforms - Web Based
     & Client Server Apps
