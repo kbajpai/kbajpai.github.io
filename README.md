@@ -1,6 +1,6 @@
 # Introduction
 
-**Masters in Computer Science** with **13+ years of experience** in
+**Masters in Computer Science** with **14+ years of experience** in
 Software Development
 
 # Summary
@@ -96,7 +96,7 @@ IDEA**, Perforce, CFScript, CFML, Windows Server 2008/2016,
   ----------------------------------------------
 
   -----------
-  10 Months
+  18 Months
   -----------
 
   ------------------------------------------------
