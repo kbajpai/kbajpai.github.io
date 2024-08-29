@@ -1,9 +1,17 @@
  
 /* start css.sty */
-.cmr-10x-x-109{}
-.cmr-12x-x-120{font-size:130%;}
-.cmtt-10x-x-109{font-family: monospace,monospace;}
-.cmbx-10x-x-109{ font-weight: bold;}
+.cmr-7{font-size:70%;}
+.cmmi-10{font-style: italic;}
+.SourceSansPro-Regular-tlf-t1-{font-name: 'Source Sans Pro', sans-serif}
+.SourceSansPro-Bold-tlf-t1-x-x-300{font-size:300%;font-weight: bold; font-name: 'Source Sans Pro', sans-serif}
+.SourceSansPro-Bold-tlf-t1-x-x-300{font-weight: bold; font-name: 'Source Sans Pro', sans-serif}
+.fa5free2solid-x-x-80{font-size:80%; font-family: 'Font Awesome 5 Free Solid', serif;}
+.fa5free1regular-x-x-80{font-size:80%; font-family: 'Font Awesome 5 Free Regular', serif;}
+.fa5brands0-x-x-80{font-size:80%; font-family: 'Font Awesome 5 Brands Regular', serif;}
+.ectt-1000{ font-family: monospace,monospace;}
+.SourceSansPro-Bold-tlf-t1-{font-weight: bold; font-name: 'Source Sans Pro', sans-serif}
+.SourceSansPro-Bold-tlf-t1-{font-weight: bold; font-name: 'Source Sans Pro', sans-serif}
+.fa5free1solid-x-x-80{font-size:80%; font-family: 'Font Awesome 5 Free Solid', serif;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
@@ -122,5 +130,44 @@ div.abstract {width:100%;}
 .subsubsectionToc, .likesubsubsectionToc {margin-left:2em;}
 .paragraphToc, .likeparagraphToc {margin-left:3em;}
 .subparagraphToc, .likesubparagraphToc {margin-left:4em;}
+div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
+table.tabular td p{margin-top:0em;}
+table.tabular {margin-left: auto; margin-right: auto;}
+td p:first-child{ margin-top:0em; }
+td p:last-child{ margin-bottom:0em; }
+div.td00{ margin-left:0pt; margin-right:0pt; }
+div.td01{ margin-left:0pt; margin-right:5pt; }
+div.td10{ margin-left:5pt; margin-right:0pt; }
+div.td11{ margin-left:5pt; margin-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+td.td00{ padding-left:0pt; padding-right:0pt; }
+td.td01{ padding-left:0pt; padding-right:5pt; }
+td.td10{ padding-left:5pt; padding-right:0pt; }
+td.td11{ padding-left:5pt; padding-right:5pt; }
+table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
+.hline hr, .cline hr{ height : 0px; margin:0px; }
+.hline td, .cline td{ padding: 0; }
+.hline hr, .cline hr{border:none;border-top:1px solid black;}
+.hline {border-top: 1px solid black;}
+.hline + .vspace:last-child{display:none;}
+.hline:first-child{border-bottom:1px solid black;border-top:none;}
+div.array {text-align:center;}
+dl.enumerate-enumitem{display:grid; grid-template-columns: 3ch 1fr; align-items: top; row-gap:1ch;}
+.equation td{text-align:center; }
+.equation-star td{text-align:center; }
+table.equation-star { width:100%; }
+table.equation { width:100%; }
+table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:95%; margin-left:5%; white-space: nowrap;}
+table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto; margin-right:auto; white-space: nowrap;}
+td.align-label { width:5%; text-align:center; }
+td.align-odd { text-align:right; padding-right:0.3em;}
+td.align-even { text-align:left; padding-right:0.6em;}
+table.multline, table.multline-star {width:100%;}
+td.gather {text-align:center; }
+table.gather {width:100%;}
+div.gather-star {text-align:center;}
+tr#TBL-3-1- {border-top:0.112em solid #000;} 
+tr#TBL-3-1- {border-bottom:0.06999em solid #000}
+tr#TBL-3-3- {border-bottom:0.112em solid #000}
 /* end css.sty */
 

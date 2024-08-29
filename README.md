@@ -1,17 +1,17 @@
-# Introduction
+**Kunal Bajpai**
 
-**Masters in Computer Science** with **14+ years of experience** in
-Software Development
+ [Deer Park, NY](https://maps.app.goo.gl/2rYqJBFLH8Mi3Hh78)  cm
+ <kbajpai@live.com>  cm  [(516) 736-4987](tel:+1-516-736-4987)  cm
+ [kbajpai.com](https://kbajpai.com/)  cm
+ [kbajpai](https://linkedin.com/in/kbajpai)  cm
+ [kbajpai](https://github.com/kbajpai)  cm
 
 # Summary
 
--   Currently working as **Lead Software Engineer** at **Broadridge**
+-   **Masters** in Computer Science
 
--   Strong **communication** & **interpersonal** skills
-
--   Strong **analytical** & **problem-solving** skills
-
--   In-depth experience working in **C\#**
+-   Strong **communication**, **interpersonal**, **analytical** &
+    **problem-solving** skills
 
 -   Advanced understanding of **agile methodologies** such as **CI/CD**,
     Application Resiliency, & Security
@@ -19,9 +19,6 @@ Software Development
 -   Proficient in all aspects of the Software Development Life Cycle
 
 -   Proficiency in automation & continuous delivery methods
-
--   Experience multiple programming language(s) **C\#**, **Python**,
-    JavaScript, **BASH** Scripting
 
 -   Ambition to solve **tough** & **challenging** problems using
     analytical methods
@@ -31,7 +28,7 @@ Software Development
 -   Proficiency in creating **multi-threaded application** design &
     development
 
--   Competence in designing high-volume **ETL** jobs using **C\#**,
+-   Competence in designing high-volume **ETL** jobs using **C#**,
     Dotnet Core, **SSIS**
 
 -   Migration of legacy applications to **Microservice** using **Dotnet
@@ -60,231 +57,252 @@ Software Development
 
 -   Active participant in **interviewing** & **hiring** new associates
 
-# Primary Skills
+# Technical Skills
 
-**Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **SSIS**, **Python**,
-**BASH**, Cygwin, **Linux**, Angular, HTML5, **TypeScript**, JavaScript,
-JSON, **Web API**, RESTful Services, LINQ, SQL Server 2012/2016/2019,
-MSTest NUnit, **Git**, Jira, **Jenkins**, **TeamCity**, **Perforce**,
-**Docker**, **Swarm**, **Kubernetes**, ReSharper
+  Role              Responsibilities
+  ----------------- -----------------------------------------
+  Project Manager   Overall project coordination, reporting
+  Developer         Coding, testing
 
-# Domain Experience
+# Experience
 
-Fulfillment System, Wealth Management, Higher Education
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
-# Other Tools & Technologies
+::: paracol
+2
 
-NodeJs, **NPM**, **GitHub**, **Visual Studio 2022/2019**, **InetelliJ
-IDEA**, Perforce, CFScript, CFML, Windows Server 2008/2016,
-**Ubuntu/Linux**, **BASH**, **rsync**, npm, **SublimeText**, **Vi**,
-**Gradle**, Lex/Yacc, Latex, MongoDB
+**Apple Computer**, Software Engineer, Intern
 
-# Professional Experience
+-   Reduced time to render the user's buddy list by 75% by implementing
+    a prediction algorithm.
 
-  --------------------------------
-  Broadridge Financial Solutions
-  --------------------------------
+-   Implemented iChat integration with OS X Spotlight Search by creating
+    a tool that extracts metadata from saved chat transcripts and
+    provides metadata to a system-wide search database.
 
-  ------------------
-  **Deer Park NY**
-  ------------------
+-   Redesigned chat file format and implemented backward compatibility
+    for search.
 
-------------------------------------------------------------------------
+CA, USA
 
-  ----------------------------------------------
-  Lead Software Engineer (July 2022 - Current)
-  ----------------------------------------------
+June 2004 to Aug. 2004
 
-  -----------
-  18 Months
-  -----------
+2 months
+:::
+::::
 
-  ------------------------------------------------
-  Sr. Software Engineer (April 2017 - June 2022)
-  ------------------------------------------------
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
-  -----------
-  62 Months
-  -----------
+::: paracol
+2
 
-## Company
+**Microsoft Corporation**, Lead Student Ambassador
 
-Broadridge is the leading provider of investor communications &
-technology-driven solutions for wealth management, asset management &
-capital markets firms.
+-   Promoted to Lead Student Ambassador in the Fall of 2004, supervised
+    10 - 15 Student Ambassadors.
 
-## Responsibilities
+-   Created and taught a computer science course, CSE 099: Software
+    Design and Development.
 
-Helping client with current cycle of enhancements by analyzing new
-requirements, preparing estimations, impact analysis documentation, &
-high/low level design of proposed solutions. Responsible for **ETL**
-Processes for multiple Mutual Funds Clients. Creating & Optimizing
-Stored Procedures/SQL queries to enhance & optimize **Data Feed
-Process** for **Mutual Funds** Clients. Coordination with **off-shore
-team** for **end-to-end support** from **Development to Deployment**.
-Helping product owner in running **refinement sessions** for **scrum
-board**. Leading the deployment from development to production
-environment. Helping the agile team with completing stories in the
-scrum. Running **code review** sessions with other developers.
+WA, USA
 
-## Environment
+Sept. 2003 to Apr. 2005
 
-**Dotnet Core** 7.0/6.0/5.0/3.1, **C\#**, **Visual Studio
-2022/2019/2017**, **SQL Server 2016**, **TeamCity**, **Jenkins**,
-**Git**, JavaScript, HTML, **DevOps**, **BASH**, Python, **SSIS**,
-**Cygwin**
+1 year 7 months
+:::
+::::
 
-  ------------------
-  InfoTrax Systems
-  ------------------
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
-  ---------------
-  **Auburn AL**
-  ---------------
+::: paracol
+2
 
-------------------------------------------------------------------------
+**University of Pennsylvania**, Head Teaching Assistant
 
-  ---------------------------------------------
-  Software Engineer (April 2015 - March 2017)
-  ---------------------------------------------
+-   Implemented a user interface for the VS open file switcher
+    (ctrl-tab) and extended it to tool windows.
 
-  -----------
-  24 Months
-  -----------
+-   Created a service to provide gradient across VS and VS add-ins.
+    Optimized service via caching.
 
-## Company
+-   Programmer Productivity Research Center (Summers 2001, 2002)
 
-InfoTrax enables customers to calculate distributors' compensations with
-speed & accuracy - maximizing business performance. Every feature of our
-software & every service we offer is built to support the compensation
-plan & the relationship between our clients & their distributors.
+-   Built app to compute the similarity of all methods in a code base,
+    reduced time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$.
 
-## Responsibilities
+-   Created a test case generation tool that creates random XML docs
+    from XML Schema.
 
-Involved in requirements gathering, design, development, & customization
-of modules. Worked with Product Managers to apply bugs fixes & apply
-customization as per client requirements. Spearheaded company-wide
-**Modernization Project** -- applying **Industry Best Practices**.
-Worked on integrating **Git/Atlassian Jira** with our current WorkFlow
-System.
+PA, USA
 
-## Environment
+Oct. 2001 to May 2005
 
-jQuery, LINQ, AngularJS, CSS, IIS, MS SQL Server 2012, ASP.NET, **.NET
-Framework** 4.5/4.8, **C\#** JavaScript, HTML, jQuery
+3 years 7 months
+:::
+::::
 
-  --------------------------
-  Indiana State University
-  --------------------------
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
-  --------------------
-  **Terre Haute IN**
-  --------------------
+::: paracol
+2
 
-------------------------------------------------------------------------
+**Microsoft Corporation**, Software Design Engineer, Intern
 
-  ---------------------------------------------------
-  Sr. Software Engineer (January 2014 - March 2015)
-  ---------------------------------------------------
+-   Promoted to Lead Student Ambassador in the Fall of 2004, supervised
+    10 - 15 Student Ambassadors.
 
-  -----------
-  15 Months
-  -----------
+WA, USA
 
-## Company
+June 2003 to Aug. 2003
 
-Institutional Research at Indiana State University produces data,
-analysis, & research for the future growth, planning, & policy making of
-Indiana State University, Terre Haute
+2 months
+:::
+::::
 
-## Responsibilities
+# Publications
 
-Full Lifecycle of the project including analysis design, development,
-debugging, testing, & deployment. Developed the application from scratch
-using the popular MVC Framework ColdBox, ORMServices, Developed
-Login/Session based with auto-logout feature. Worked on UI/UX using
-**CSS3**, **Bootstrap**, **HTML5**. Designed & developed **MS SQL Server
-2012** Procedures, Functions, Database Triggers & involved in creating &
-updating Packages to meet business requirements. Multi-file Upload
-utility implemented using **jQuery**. Configured **Mura CMS** for the
-public site, JIRA for Issue Handling. **Grid View** with multi-filter,
-sort, filter, & expandable rows with details view.
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
-## Environment
+::: paracol
+2
 
-Fusebox, **ColdFusion 9/10/11**, **ColdBox**, CFScript, **MS SQL Server
-2012**, JavaScript, HTML, **jQuery**, **Bootstrap**, **ExtJS (Sencha)**,
-Mura, IIS, Git
+**Magneto-Thermal Thin Shell Approximation for 3D Finite Element
+Analysis of No-Insulation Coils**
 
-# Other Projects
+Albert Smith, Resume, Jane Derry, Harry Tom, Frodo Baggins
 
-  -----------------------
-  **Ampsys Wealth ERP**
-  -----------------------
+[](https://doi.org/10.1109/TASC.2023.3340648)
 
-  ----------------------
-  **Bangalore, India**
-  ----------------------
+Jan. 2004
+:::
+::::
 
-  ------------------------------------------------
-  Software Engineer (April 2013 - December 2013)
-  ------------------------------------------------
+# Projects
 
-  ----------
-  9 Months
-  ----------
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
-  ----------------
-  **CavalierIT**
-  ----------------
+::: paracol
+2
 
-  ----------------
-  **Edison, NJ**
-  ----------------
+**Multi-User Drawing Tool**
 
-  -----------------------------------------------
-  Software Engineer (October 2011 - March 2013)
-  -----------------------------------------------
+-   Developed an electronic classroom where multiple users can view and
+    simultaneously draw on a \"chalkboard\" with each person's edits
+    synchronized.
 
-  -----------
-  18 Months
-  -----------
+-   Used C++ and MFC.
 
-  ------------------------------
-  **Indiana State University**
-  ------------------------------
+Jan. 2004
+:::
+::::
 
-  ---------------------
-  **Terre Haute, IN**
-  ---------------------
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
-  ------------------------------------------------
-  Software Engineer (January 2010 - August 2011)
-  ------------------------------------------------
+::: paracol
+2
 
-  -----------
-  20 Months
-  -----------
+**Synchronized Calendar**
 
-  -------------------------------------------
-  **Indian Institute of Technology Kanpur**
-  -------------------------------------------
+-   Developed a desktop calendar with globally shared and synchronized
+    calendars, allowing users to schedule meetings with other users.
 
-  -------------------
-  **Kanpur, India**
-  -------------------
+-   Used C#.NET, SQL, and XML.
 
-  -------------------------------------------
-  Software Engineer (July 2007 - June 2009)
-  -------------------------------------------
+to 2004
+:::
+::::
 
-  -----------
-  24 Months
-  -----------
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
+
+::: paracol
+2
+
+**Operating System**
+
+-   Developed a UNIX-style OS with a scheduler, file system, text
+    editor, and calculator.
+
+-   Used C.
+
+Jan. 2002
+:::
+::::
+
+# Additional Experience And Awards
+
+::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
+
+**Instructor (2003 - 2005):** Taught two full-credit Computer Science
+courses.
+:::
+
+::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
+
+**Third Prize, Senior Design Projects:** Awarded 3rd prize for a
+synchronized calendar project out of 100 projects.
+:::
+
+# Technologies
+
+::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
+
+**Languages:** C++, C, Java, Objective-C, C#.NET, SQL, JavaScript
+:::
+
+::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
+
+**Software:** Visual Studio, Microsoft SQL Server, Eclipse, XCode,
+Interface Builder
+:::
 
 # Education
 
--   **Masters in Computer Science**, Indiana State University
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
 
--   **Bachelors in Computer Science & Engineering**, Dr. A.P.J. Abdul
-    Kalam Technical University
+::: paracol
+3
+
+**MS**
+
+**Indiana State University**, Computer Science
+
+-   **Coursework:** Advanced Theory of Computation, Advanced Algorithms,
+    Operating Systems, Database Process, Advanced Discrete Structures
+
+Aug. 2009 to July 2011
+:::
+::::
+
+:::: adjustwidth
+0.2 cm + 0.00001 cm 0.2 cm + 0.00001 cm
+
+::: paracol
+3
+
+**BS**
+
+**Dr. A.P.J. Abdul Kalam Technical University**, Computer Science
+
+-   **Coursework:** Network & Systems, Computer Organisation, Data
+    Structures using C, Operating System, Object Oriented Programing in
+    C++, Theory of Automata & Formal Languages, Design & Analysis of
+    Algorithm, Principle of Programing Languages, Discrete Structures,
+    Computer Architecture, Software Engineering, Introduction to Web
+    Technology, Cryptography & Network Security
+
+Aug. 2002 to July 2007
+:::
+::::
