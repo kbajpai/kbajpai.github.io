@@ -90,41 +90,52 @@ April 2017 - June 2022 (5 years 3 months)
 
 ### Technical Leadership
 
-Led technical design, implementation, and testing of complex software
-solutions. Championed best practices in software development, including
-coding standards, design patterns, and testing methodologies.
+Led **technical design**, **implementation**, and **testing** of complex
+software solutions. Championed **best practices** in software
+development, including coding standards, **design patterns**, and
+testing methodologies.
 
 ### Agile Development
 
-Spearheaded agile development processes, including sprint planning,
-daily stand-ups, and retrospectives. Actively participated in story
-refinement and assignment, ensuring efficient and effective delivery.
+Spearheaded agile development processes, including **sprint planning**,
+**daily stand-up**s, and retrospectives. Actively participated in
+**story refinement** and **assignment**, ensuring efficient and
+effective delivery.
 
 ### DevOps Engineering
 
-Built and maintained robust DevOps pipelines using Python, Jenkins, and
-BASH on Linux (RHEL) to automate CI/CD processes. Streamlined deployment
-and reduced time-to-market.
+Built and maintained robust DevOps **pipelines** using **Python**,
+**Jenkins**, and BASH on Linux (RHEL) to automate CI/CD processes.
+Streamlined deployment and reduced time-to-market.
 
 ### Team Collaboration
 
-Collaborated closely with cross-functional teams, including product
+Collaborated closely with **cross-functional teams**, including product
 owners, designers, and QA engineers, to deliver high-quality software
-solutions. Provided technical guidance and mentorship to junior
-developers, fostering a culture of continuous learning and improvement.
+solutions. Provided **technical guidance** and **mentorship to junior
+developers**, fostering a culture of continuous learning and
+improvement.
 
 ### Client Engagement
 
-Worked directly with clients to understand their needs, gather
-requirements, and deliver solutions that exceeded expectations.
-Onboarded new clients and provided ongoing support, ensuring a seamless
-user experience.
+Worked directly with clients to understand their needs, **gather
+requirements**, and deliver solutions that exceeded expectations.
+**Onboarded new clients** and provided ongoing support, ensuring a
+seamless user experience.
 
 ### Problem-Solving and Innovation
 
-Analyzed complex technical challenges, developed innovative solutions,
-and effectively resolved issues. Contributed to the continuous
-improvement of the product through feature enhancements and bug fixes.
+**Analyzed complex technical challenges**, **developed innovative
+solutions**, and effectively resolved issues. Contributed to the
+continuous improvement of the product through feature enhancements and
+bug fixes.
+
+### Recruitment Process
+
+Led the recruitment process by **sourcing**, **screening**, and
+**interviewing** potential candidates to identify top talent,
+collaborating with hiring managers and HR to ensure a smooth and
+efficient hiring process.
 
 # InfoTrax Systems (Auburn, AL)
 
