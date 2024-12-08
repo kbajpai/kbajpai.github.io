@@ -8,7 +8,7 @@ if (!(Test-Path -Path "dist")) {
 # Build
 pdflatex resume.tex
 htlatex resume.tex
-# pandoc -o README.md resume.tex
+pandoc -o README.md resume.tex
 # pandoc -s resume.tex -o resume.docx
 
 # Copy files
