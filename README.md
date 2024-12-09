@@ -191,11 +191,6 @@ January 2014 - March 2015 (1 year 3 months)
 Led the entire software development lifecycle, from requirements
 analysis and system design to development, testing, and deployment.
 
-### Framework Expertise
-
-Leveraged the ColdBox MVC framework to build robust and scalable web
-applications.
-
 ### Data Management
 
 Designed and implemented complex database structures using MS SQL Server
@@ -214,7 +209,7 @@ rows.
 
 ### Content Management
 
-Configured and managed Mura CMS for the public-facing website.
+Configured and managed **Mura CMS** for the public-facing website.
 
 ### Project Management
 
