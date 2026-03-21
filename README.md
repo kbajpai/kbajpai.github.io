@@ -36,6 +36,9 @@
 -   Experience with **AWS Services** including S3, Lambda, RDS, EC2, &
     Kinesis
 
+-   Proficient in leveraging **GitHub Copilot** within Visual Studio to
+    accelerate development cycles and enhance code quality
+
 -   Competency in architecturing solutions using different **design
     patterns** namely **Singleton**, **Factory**, **Facade**,
     **Dependency Injection**, etc.
@@ -61,13 +64,13 @@
 
 # Technical Skills
 
-**Dotnet Core** 8.0/6.0, **C#**, **Python**, **BASH**, Angular,
-**TypeScript**, **Web API**, **RESTful Services**, LINQ, SQL Server
-2019/2022, MSTest, NUnit, **Moq Framework**, **Git**, Jira, **Jenkins**,
-**Docker**, **Kubernetes**, ReSharper, dotCover, dotTrace, **Visual
-Studio 2022/2019**, Windows Server 2016/2022, **Ubuntu/Linux**,
-**BASH**, **Vim**, Latex, MongoDB, S3, Lambda, RDS, EC2, & Kinesis,
-**Kafka**, **Redis**, **Agile**, Pub-Sub Architecture,
+**Dotnet Core** 8.0/6.0, **GitHub Copilot**, **C#**, **Python**,
+**BASH**, Angular, **TypeScript**, **Web API**, **RESTful Services**,
+LINQ, SQL Server 2019/2022, MSTest, NUnit, **Moq Framework**, **Git**,
+Jira, **Jenkins**, **Docker**, **Kubernetes**, ReSharper, dotCover,
+dotTrace, **Visual Studio 2022/2019**, Windows Server 2016/2022,
+**Ubuntu/Linux**, **BASH**, **Vim**, Latex, MongoDB, S3, Lambda, RDS,
+EC2, & Kinesis, **Kafka**, **Redis**, **Agile**, Pub-Sub Architecture,
 **Microservices**, C/C++, Lex/Yacc
 
 # Professional Experience

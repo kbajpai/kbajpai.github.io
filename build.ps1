@@ -10,6 +10,7 @@ $timestamp = Get-Date -Format "yyyyMMdd"
 
 # Copy files
 Copy-Item -Path "resume.html"   -Destination "index.html"
+Copy-Item -Path "resume.pdf"    -Destination "$env:USERPROFILE\Dropbox\Resume\Resume.Kunal.Bajpai.pdf"
 Copy-Item -Path "resume.pdf"    -Destination "$env:USERPROFILE\Dropbox\Resume\Resume.Kunal.Bajpai.$timestamp.pdf"
 Copy-Item -Path "resume.html"   -Destination "$env:USERPROFILE\Dropbox\Resume\Resume.Kunal.Bajpai.$timestamp.html"
 Copy-Item -Path "resume.docx"   -Destination "$env:USERPROFILE\Dropbox\Resume\Resume.Kunal.Bajpai.$timestamp.docx"
